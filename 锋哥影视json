@@ -6,12 +6,12 @@
     "sites": [
         {
             "key": "奇优影视",
-            "name": "🐬优酷视频｜追剧",
+            "name": "🐙优酷视频｜追剧",
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
         {"key": "qysp",
-        "name": "🐬爱奇艺视频｜追剧",
+        "name": "🐙爱奇艺视频｜追剧",
         "type": 3,
         "api": "MJS_qysp"       ,
         "searchable": 1,
@@ -21,7 +21,7 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {"key": "txsp",
-        "name": "🐬腾讯视频｜追剧",
+        "name": "🐙腾讯视频｜追剧",
         "type": 3,
         "api": "MJS_txsp"       ,
         "searchable": 1,
@@ -31,7 +31,7 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {"key": "mgsp",
-        "name": "🐬芒果视频｜追剧",
+        "name": "🐙芒果视频｜追剧",
         "type": 3,
         "api": "MJS_mgsp"       ,
         "searchable": 1,
@@ -41,7 +41,7 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {"key": "sgys",
-        "name": "🐬搜狗视频｜追剧",
+        "name": "🐙搜狗视频｜追剧",
         "type": 3,
         "api": "MJS_sgys"       ,
         "searchable": 1,
@@ -52,7 +52,7 @@
         },
         {
 			"key": "hpy_js_豆瓣[官]",
-			"name": "🐬豆瓣视频｜追剧",
+			"name": "🐙豆瓣视频｜追剧",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -63,7 +63,7 @@
 		},
         {    
             "key": "热播影视",
-            "name": "🐬热播影视｜追剧",
+            "name": "🐙热播影视｜追剧",
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
             "searchable": 1,
@@ -75,14 +75,14 @@
         },
         {
              "key": "猫抓",
-             "name": "🐬猫抓影视｜追剧",
+             "name": "🐙猫抓影视｜追剧",
              "type": 3,"jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
              "api": "csp_AppGet",
              "ext": "https://dy.8ttv.cn|1111111111111111"
         },
         {
             "key":"瓜子",
-            "name":"🐬瓜子影视｜追剧",
+            "name":"🐙瓜子影视｜追剧",
             "type":3,
             "api":"csp_Guazi",
             "searchable":1,
@@ -94,7 +94,7 @@
         },
         {
             "key": "hipy_js_暖光影视",
-            "name": "🐬暖光影视｜追剧",
+            "name": "🐙暖光影视｜追剧",
             "type": 3,
             "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -104,7 +104,7 @@
         },
         {
             "key": "API_如意",
-            "name": "🐬如意影视｜追剧",
+            "name": "🐙如意影视｜追剧",
             "type": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "ext": "",
@@ -148,16 +148,16 @@
         "海外动漫"
          ]
         },
-{"name":"🐬小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬豪堪短剧🎦｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬盒马短剧📺｜短剧","key":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬拜拜短剧🎞️｜短剧","key":"拜拜短剧","type":3,"api":"csp_BddjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬锦鲤短剧🐠｜短剧","key":"锦鲤短剧","type":3,"api":"csp_JLdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬喵喵短剧🐱｜短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"name":"🐬星星短剧⭐｜短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙豪堪短剧🎦｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙盒马短剧📺｜短剧","key":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙拜拜短剧🎞️｜短剧","key":"拜拜短剧","type":3,"api":"csp_BddjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙锦鲤短剧🐠｜短剧","key":"锦鲤短剧","type":3,"api":"csp_JLdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙喵喵短剧🐱｜短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
+{"name":"🐙星星短剧⭐｜短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
             {"key": "csp_Kugou",
-"name": "🐬酷狗音乐｜音乐",
+"name": "🐙酷狗音乐｜音乐",
 "type": 3,
 "api": "csp_Kugou",
 "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
@@ -166,7 +166,7 @@
 "type_id": "kugou"}]}}, 
         {
              "key": "hipy_js_酷我听书[听]",
-             "name": "🐬酷我听书｜听书",
+             "name": "🐙酷我听书｜听书",
               "type": 3,
               "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
               "searchable": 1,
@@ -176,7 +176,7 @@
         },
         {
               "key": "hipy_js_爱上你听书",
-              "name": "🐬爱上听书｜听书",
+              "name": "🐙爱上听书｜听书",
               "type": 3,
               "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
               "searchable": 1,
@@ -403,37 +403,37 @@
   ],
 "lives": [
         {
-            "name": "🐬iptvpro直播",
+            "name": "🐙iptvpro直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
         },
         {
-            "name": "🐬斯马达直播",
+            "name": "🐙斯马达直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "http://96.44.160.246:9999/smt.php"
         },
         {
-            "name": "🐬港台大陆频道",
+            "name": "🐙港台大陆频道",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道"
         },
         {
-            "name": "🐬港台大陆频道无18",
+            "name": "🐙港台大陆频道无18",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
         },
         {
-            "name": "🐬xxx视频资源",
+            "name": "🐙xxx视频资源",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源(免番强)"
         },
         {
-            "name": "🐬海角社区博主",
+            "name": "🐙海角社区博主",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海角社区博主(免番强)"
