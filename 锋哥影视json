@@ -1,0 +1,284 @@
+{
+    "spider": "./tvbox.jar",
+    "logo": "https://imgs-qn.51miz.com/preview/element/00/01/38/90/E-1389004-8800C3A4.jpg?imageMogr2/thumbnail/720x/quality/90|imageMogr2/format/jpeg",
+    "wallpaper":"http://tool.teyonds.com/api",
+    "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
+    "sites": [
+        {
+            "key": "奇优影视",
+            "name": "🐬优酷视频",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
+        },
+        {    
+            "key": "热播影视",
+            "name": "🐬热播影视",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+             "key": "猫抓",
+             "name": "🐬猫抓影视",
+             "type": 3,"jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+             "api": "csp_AppGet",
+             "ext": "https://dy.8ttv.cn|1111111111111111"
+        },
+        {
+            "key":"瓜子",
+            "name":"🐬瓜子影视",
+            "type":3,
+            "api":"csp_Guazi",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "playerType":1,
+            "changeable":1,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
+        },
+        {
+            "key": "hipy_js_暖光影视",
+            "name": "🐬暖光影视",
+            "type": 3,
+            "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
+        },
+            {"key": "csp_Kugou",
+"name": "🐬酷狗音乐",
+"type": 3,
+"api": "csp_Kugou",
+"jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
+"playerType": 2,
+"ext": {"classes": [{"type_name": "酷狗",
+"type_id": "kugou"}]}}, 
+        {
+             "key": "hipy_js_酷我听书[听]",
+             "name": "🐬酷我听书",
+              "type": 3,
+              "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+              "searchable": 1,
+              "quickSearch": 1,
+              "filterable": 1,
+              "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/酷我听书[听].js"
+        },
+        {
+              "key": "hipy_js_爱上你听书",
+              "name": "🐬爱上听书",
+              "type": 3,
+              "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+              "searchable": 1,
+              "quickSearch": 1,
+              "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
+        }
+  ],
+"flags": ["NBY","FYNB","Feiyun","360zy","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","bilibili1","哔 哩","哔 哩 哔 哩"],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "doh":[
+{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
+{"name":"4K智家","type":1,"url":"http://125.208.23.251:1314/lunxun/?url="},
+{"name":"星睿⚡4K","type":1,"url":"http://sspa8.top:8100/api/?cat_ext=eyJmbGFnIjpbInFxIiwi6IW+6K6vIiwicWl5aSIsIueIseWlh+iJuiIsIuWlh+iJuiIsInlvdWt1Iiwi5LyY6YW3Iiwic29odSIsIuaQnOeLkCIsImxldHYiLCLkuZDop4YiLCJtZ3R2Iiwi6IqS5p6cIiwidG5tYiIsInNldmVuIiwiYmlsaWJpbGkiLCIxOTA1Il0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuOS4xIn19&key=星睿4k&url="},
+{"name":"HD⚡腾讯解析","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="},
+{"name":"4k芒果⚡专解","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="}
+],
+"lives": [
+        {
+            "name": "🐬iptvpro",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
+        },
+        {
+            "name": "🐬港台大陆频道",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道"
+        },
+        {
+            "name": "🐬港台大陆频道无18",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
+        },
+        {
+            "name": "🐬xxx视频资源",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源(免番强)"
+        },
+        {
+            "name": "🐬海角社区博主",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海角社区博主(免番强)"
+        }
+    ]
+}
