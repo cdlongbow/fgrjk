@@ -152,7 +152,7 @@
 {"name":"🐙厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 		{
 			"key": "muou",
-			"name": "木偶 | 4K",
+			"name": "🐙木偶 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/muou?token=698d04ebe00a6369",
 			"searchable": 1,
@@ -163,7 +163,7 @@
 		},
 		{
 			"key": "labi",
-			"name": "蜡笔 | 4K",
+			"name": "🐙蜡笔 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/labi?token=698d04ebe00a6369",
 			"searchable": 1,
@@ -173,7 +173,7 @@
 		},
 		{
 			"key": "huban",
-			"name": "虎斑 | 4K",
+			"name": "🐙虎斑 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/hb?token=698d04ebe00a6369",
 			"searchable": 1,
@@ -183,7 +183,7 @@
 		},
 		{
 			"key": "xbky",
-			"name": "快映 | 4K",
+			"name": "🐙快映 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/xbky?token=698d04ebe00a6369",
 			"searchable": 1,
@@ -193,7 +193,7 @@
 		},
 		{
 			"key": "ouge",
-			"name": "讴歌 | 4K",
+			"name": "🐙讴歌 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/ouge?token=698d04ebe00a6369",
 			"searchable": 1,
@@ -203,154 +203,9 @@
 		},
 		{
 			"key": "libo",
-			"name": "立播 | 4K",
+			"name": "🐙立播 | 4K",
 			"type": 4,
 			"api": "http://8088880.xyz:8080/video/libo?token=698d04ebe00a6369",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "duoduo_ok",
-			"name": "多多OK | 4K",
-			"type": 3,
-			"api": "csp_DuoDuoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "erxiao_ok",
-			"name": "二小OK | 4K",
-			"type": 3,
-			"api": "csp_ErXiaoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "wogg_ok",
-			"name": "玩偶OK | 4K",
-			"type": 3,
-			"api": "csp_WoggGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "mogg_ok",
-			"name": "木偶OK | 4K",
-			"type": 3,
-			"api": "csp_MuouGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			},
-			"categories": ["木偶电影", "木偶剧集", "木偶动漫", "木偶短剧", "木偶纪录片"]
-		},
-		{
-			"key": "zhizhen_OK",
-			"name": "至臻OK | 4K",
-			"type": 3,
-			"api": "csp_ZhiZhenGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "labi_ok",
-			"name": "蜡笔OK | 4K",
-			"type": 3,
-			"api": "csp_LabiGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "2star_ok",
-			"name": "双星OK | 4K",
-			"type": 3,
-			"api": "csp_Star2Guard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "huban_ok",
-			"name": "虎斑OK | 4K",
-			"type": 3,
-			"api": "csp_HuBanGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "xiaosa_ok",
-			"name": "小飒OK | 4K",
-			"type": 3,
-			"api": "csp_XsayangGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/qk.png",
-				"uc_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/uc.png",
-				"baidu_cookie": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/js/bd.png"
-			}
-		},
-		{
-			"key": "panso",
-			"name": "盘搜 | 4K",
-			"type": 4,
-			"api": "http://8088880.xyz:8080/video/panso?token=698d04ebe00a6369",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
