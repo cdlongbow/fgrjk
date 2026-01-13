@@ -182,8 +182,18 @@
               "searchable": 1,
               "quickSearch": 1,
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
-        }
-  ],
+        },
+        {
+			"key": "market",
+			"name": "应用｜商店",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
+			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
+		}
+        ],
     "parses": [
        
           {
