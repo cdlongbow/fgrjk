@@ -277,6 +277,12 @@
 			"key": "HLBTY",
 			"name": "🐙黑料网｜🔞",
 			"type": 4
+		},
+        {
+			"api": "https://learnpython.ggff.net/51xiG",
+			"key": "51xiG",
+			"name": "🔞51吃瓜",
+			"type": 4
 		}
         ],
     "parses": [
