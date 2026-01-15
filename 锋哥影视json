@@ -288,11 +288,11 @@
         ],
     "parses": [ 
           {
-            "name": "春天",
+            "name": "春天解析",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
           },
-        {  "name": "淡若青风4k",
+        {  "name": "淡若青风4k解析",
             "type": 1,
             "url": "http:\/\/121.40.174.45:299\/api\/?key=C929E46077B4A0H&url=",
             "ext": {
@@ -302,7 +302,7 @@
       }
      },     
     {
-      "name": "极速",
+      "name": "极速解析",
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url=",
       "ext": {
@@ -312,7 +312,7 @@
   }
 },
     {
-        "name": "大厂",
+        "name": "大厂解析",
         "type": 0,
         "url": "https://t2.qlplayer.cyou/player/analysis.php?v=",
         "ext": {
@@ -330,7 +330,7 @@
             }
         },  
        {
-           "name": "HD3",
+           "name": "HD3解析",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
