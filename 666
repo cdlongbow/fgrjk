@@ -88,7 +88,59 @@
 {"name":"X细胞资源网加速播放器","type":0,"url":"https://www.xxibaozyw.com/player.php?url="},
 {"name":"豆瓣资源采集站P2P商业加速解析","type":0,"url":"https://www.dbjiexi.com:966/jx/?url="},
 {"name":"玉兔资源网解析接口","type":0,"url":"https://yutujx.com/?url="},
-{"name":"杏吧资源采集站解析接口","type":0,"url":"https://xbww888.com/?url="}
+{"name":"杏吧资源采集站解析接口","type":0,"url":"https://xbww888.com/?url="},
+   {
+            "name": "春天",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+          },
+        {  "name": "淡若青风4k",
+            "type": 1,
+            "url": "http:\/\/121.40.174.45:299\/api\/?key=C929E46077B4A0H&url=",
+            "ext": {
+            "header": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+     },     
+    {
+      "name": "极速",
+      "type": 0,
+      "url": "https://jiexi.789jiexi.net:4433/?url=",
+      "ext": {
+      "header": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+    }
+  }
+},
+    {
+        "name": "大厂",
+        "type": 0,
+        "url": "https://t2.qlplayer.cyou/player/analysis.php?v=",
+        "ext": {
+        "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+{"name":"云解析",
+        "type":0,
+        "url":"https://yparse.ik9.cc/index.php?url=",
+        "ext":{
+        "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },  
+       {
+           "name": "HD3",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+            "header": {
+            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+         }
+       }
+     }
 ],
     {
       "group": "硬解码",
