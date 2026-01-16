@@ -297,7 +297,7 @@
          {
             "key": "241224天美影院",
             "name": "🐙天美影院｜🔞",
-            "type": 1,
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -371,9 +371,9 @@
             }
         },
       {
-            "name": "♻️夕夕",
+            "name": "♻️影探A",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=",
+            "url": "https://epay.99xim.cn/ccc/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -383,21 +383,72 @@
                     "奇艺",
                     "youku",
                     "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
                     "mgtv",
                     "芒果",
-                    "letv",
-                    "leshi",
-                    "LS",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
+                    "rx",
+                    "ltnb",
                     "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/5.3.2"
-                }
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "♻️影探B",
+            "type": 1,
+            "url": "http://lflong.lyyytv.cn/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "♻️影探C",
+            "type": 1,
+            "url": "https://kk.hdjh.xyz/home/api?type=ys&uid=5282164&key=cdfqstuwCFJSTWX679&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
             }
         },
       {
