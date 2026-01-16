@@ -393,6 +393,51 @@
             "type": 1,
             "url": "https://jx.nnxv.cn/tv.php?url="
         },
+         {
+            "name": "线路4",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "线路5",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 1,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "线路7",
+            "type": 1,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "线路8",
+            "type": 1,
+            "url": "https://jx.xyflv.com/?url="
+        },
+        {
+            "name": "线路9",
+            "type": 1,
+            "url": "https://jx.ppflv.com/?url="
+        },
+        {
+            "name": "线路10-1",
+            "type": 1,
+            "url": "https://im1907.top/?jx="
+        },
+        {
+            "name": "线路11-1",
+            "type": 1,
+            "url": "https://jx.playerjy.com/?url="
+        },
+        {
+            "name": "线路12-1",
+            "type": 1,
+            "url": "https://jx.aidouer.net/?url="
+        },
         {
             "name": "Web聚合",
             "type": 3,
