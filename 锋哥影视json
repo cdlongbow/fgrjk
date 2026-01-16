@@ -294,6 +294,14 @@
             "searchable": 1,
             "filterable": 0
         },
+        {
+            "key": "91",
+            "name": "🐙91麻豆｜🔞(梯子)",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        },
          {
             "key": "csp_hs",
             "name": "🔞新黄色仓库",
