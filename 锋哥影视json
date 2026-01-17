@@ -340,7 +340,10 @@
       }}
         ],
     "parses": [ 
-          {
+                 {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+           {
             "name": "春天",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
@@ -452,9 +455,6 @@
             "type": 1,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
-       {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
        {
       "group": "软解码",
       "options": [
