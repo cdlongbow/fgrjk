@@ -603,7 +603,13 @@
     }
   ],
 "lives": [
-        {
+           {
+            "name": "🐙jackTV",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+        },
+         {
             "name": "🐙斯玛特直播(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
@@ -626,12 +632,6 @@
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
-        }, 
-        {
-            "name": "🐙jackTV",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
             "name": "🐙港台大陆频道",
