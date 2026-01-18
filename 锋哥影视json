@@ -140,7 +140,13 @@
         },
 {"name":"🐙小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐙厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-		{
+		 {
+			"api": "https://newtv.ggff.net/aigua?token=P69Phb_y",
+			"key": "嗷呜爱瓜TV",
+			"name": "🐙嗷呜爱瓜TV｜追剧",
+			"type": 4
+		},
+        {
 			"key": "muou",
 			"name": "🐙木偶4K｜追剧",
 			"type": 4,
