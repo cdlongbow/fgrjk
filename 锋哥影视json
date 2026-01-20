@@ -255,11 +255,7 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
-        },
-        {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*万影色","name":"*万影色","type":1,"api":"https://wanying4.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*银龙资源","name":"*银龙资源","type":1,"api":"https://yinlong.tv/api.php/provide/vod/","searchable":0,"quickSearch":0}
+        }
         ],
     "parses": [ 
             {
