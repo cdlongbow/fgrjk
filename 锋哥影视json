@@ -58,21 +58,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-      {
-            "key": "仓鼠",
-            "name": "🐙仓鼠｜4K",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-                "dataKey": "da61247f5b662597",
-                "dataIv": "da61247f5b662597",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
     {
       "key": "柠檬",
       "name": "🐙柠檬｜追剧",
@@ -276,11 +261,11 @@
         }
         ],
     "parses": [ 
-            {
-      "name": "虾米解析",
-      "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
-       },
+           {
+             "name": "虾米解析",
+             "type": 0,
+              "url": "https://jx.xmflv.cc/?url="
+           },
            {
             "name": "解析0",
             "type": 0,
