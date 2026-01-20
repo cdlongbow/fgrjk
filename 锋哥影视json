@@ -38,13 +38,6 @@
          "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/腾讯弹幕.js"
          },
          {
-            "key": "腾讯视频",
-            "name": "🐙腾讯4K｜追剧",
-            "type": 3,
-            "api": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/drpy2.min.js",
-            "ext": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/腾讯视频.js"
-        },
-         {
          "key":"芒果弹幕",
          "name":"🐙芒果视频｜追剧",
          "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
@@ -64,16 +57,6 @@
         "filterable": 1,
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
-        },
-         {
-            "key": "labi",
-            "name": "🐙蜡笔4K｜追剧",
-            "type": 3,
-            "api": "http://8088880.xyz:8080/video/labi?token=6d75b78a7fc4930b",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {    
             "key": "热播影视",
