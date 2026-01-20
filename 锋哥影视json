@@ -58,6 +58,16 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
+         {
+            "key": "labi",
+            "name": "🐙蜡笔4K｜追剧",
+            "type": 4,
+            "api": "http://8088880.xyz:8080/video/labi?token=6d75b78a7fc4930b",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
         {    
             "key": "热播影视",
             "name": "🐙热播影视｜追剧",
