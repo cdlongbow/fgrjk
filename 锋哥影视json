@@ -67,26 +67,6 @@
             "quickSearch": 1,
             "ext": "http://m51.gotto.top/api.php/v1.vod"
         },
-       {
-    "key": "niuniuziyuan",
-    "name": "🐙牛牛视频",
-    "api": "https://api.niuniuzy.me/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "https://api.niuniuzy.me/template/niuniuzy/static/images/logo.png",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    },
-  {
-    "key": "feifanziyuan",
-    "name": "🐙非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    },
       {
       "key": "量子2k",
       "name": "🐙量子影视｜追剧",
