@@ -277,7 +277,16 @@
             "searchable": 1,
             "filterable": 0
         },
-        {
+       {
+            "key": "乐播资源|AV",
+            "name": "🐙乐播资源｜🔞",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+       {
       "key": "fqzy资源",
       "name": "🐙国产资源｜🔞",
       "type": 1,
@@ -298,20 +307,20 @@
         "欧美精品"
       ]
     },
-         {
-            "key": "乐播资源|AV",
-            "name": "🐙乐播资源｜🔞",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
         {
             "key": "lsb资源|AV",
             "name": "🐙lsb资源｜🔞",
             "type": 1,
             "api": "https://apilsbzy1.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
+            "key": "性细胞|AV",
+            "name": "🐙性细胞｜🔞",
+            "type": 1,
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 0
