@@ -12,6 +12,8 @@ ss://YWVzLTI1Ni1nY206MDc1OTEyNjEtZjdhOC00YmY3LWE2ZDYtZGUyMWY3MWM0ZmZm@cn.fcncncn
 ss://YWVzLTI1Ni1nY206MDc1OTEyNjEtZjdhOC00YmY3LWE2ZDYtZGUyMWY3MWM0ZmZm@cn.fcncncn.org:42624?#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4
 ss://YWVzLTI1Ni1nY206NzAzYzQ5YmQtZWNlYy00MWQ2LTg2MDktMWNhMGE5OTMyNTU1@sljczy.wxhby1.com:18519?#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD5
 ss://YWVzLTI1Ni1nY206MDc1OTEyNjEtZjdhOC00YmY3LWE2ZDYtZGUyMWY3MWM0ZmZm@cn.fcncncn.org:49154?#%F0%9F%87%B0%F0%9F%87%B7%2BKR-01%2B%CB%A3%C2%B9
+ss://YWVzLTI1Ni1nY206NzAzYzQ5YmQtZWNlYy00MWQ2LTg2MDktMWNhMGE5OTMyNTU1@sljczy.wxhby1.com:18509?#JPY1
+ss://YWVzLTI1Ni1nY206NzAzYzQ5YmQtZWNlYy00MWQ2LTg2MDktMWNhMGE5OTMyNTU1@sljczy.wxhby1.com:18510?#JPY2
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.219.138.86:443?encryption=none&security=reality&sni=commerce.adobe.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#1%20TG%E9%A2%91%E9%81%93%3A%40usfgrjk
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#2%20TG%E9%A2%91%E9%81%93%3A%40usfgrjk
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.10.52:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#3%20TG%E9%A2%91%E9%81%93%3A%40usfgrjk
@@ -25,8 +27,6 @@ vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.89.164.60:443?encryption=none&se
 vless://6bbd26d2-1a68-46e6-b7d9-f9322dc22eaa@165.1.68.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.mi.com&fp=chrome&pbk=48Fc8APUOtIJDFrpdULD7Sr7Z7NVp_0K1H9u4LcmfmE&sid=67fed015&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD7
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.253.123.162:443?encryption=none&security=reality&sni=wcs.adobe.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
 trojan://4a2ed7af-d29a-4d89-a077-dfd2956afba0@kr1.t11-a.app:11029?security=tls&sni=kr011t.goodyun.buzz&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5BKR%5D%E9%9F%A9%E5%9B%BD-Seoul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTJhZjZhMS0xNjg2LTQyNTktYWYyZi00MGM0NDY3ODViNDY@stream-cdn-asia-07.silver-line.digital:48987?#%F0%9F%87%BA%F0%9F%87%B8%2BUS%2B01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTJhZjZhMS0xNjg2LTQyNTktYWYyZi00MGM0NDY3ODViNDY@stream-cdn-asia-07.silver-line.digital:30198?#%F0%9F%87%BA%F0%9F%87%B8%2BUS%2B02
 trojan://BxceQaOe@58.152.53.45:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF1
 trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=219.76.135.98&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF2
 vless://ca2da009-aa7f-46f2-9ca4-c88594ebab9e@mbqg940.26l6c42.rkzn8ni.vm331.cn:58473?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.discoverasr.com&fp=safari&pbk=y0xxD2jGlk2cK0pWX52Aejy_wgGR3oyAQcdx2sdHz00&sid=7e67f12ec06e80&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20BGP
