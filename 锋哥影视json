@@ -688,10 +688,16 @@
             "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
          {
-            "name": "🐙anboxtv",
+            "name": "🐙斯玛特",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://tv.anboxtv.online/tv"
+        }, 
+         {
+            "name": "🐙易佬直播源",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "http://gc.gt.tc/o/i/HKTV.txt"
         }, 
         {
             "name": "🐙4gTV(梯子台湾节点)",
