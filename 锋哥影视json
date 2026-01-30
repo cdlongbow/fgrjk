@@ -719,10 +719,10 @@
             "url": "http://tv.anbox.ip-ddns.com/live"
         },
         {
-            "name": "🐙litv直播",
+            "name": "🐙四季直播",
             "type": 0,
             "ua": "okhttp",
-            "url": "http://github.com/cm851228/2025jar/raw/refs/heads/main/litv.txt"
+            "url": "https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009"
         },
         {
             "name": "🐙iptvpro直播",
