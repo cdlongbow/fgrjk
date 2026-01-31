@@ -718,6 +718,12 @@
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
+         {
+            "name": "🐙安博(梯子)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
+        },
         {
             "name": "🐙港台大陆频道",
             "type": 0,
