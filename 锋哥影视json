@@ -687,7 +687,13 @@
             "ua": "okhttp",
             "url": "http://tv.anbox.ip-ddns.com/live"
         },
-         {
+        {
+            "name": "🐙Gather",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tv.iill.top/m3u/Gather"
+        },
+        {
             "name": "🐙iptvpro直播",
             "type": 0,
             "ua": "okhttp",
