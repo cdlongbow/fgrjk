@@ -59,6 +59,12 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {
+			"key": "zhuanxiang",
+			"name": "🐙专享4K｜追剧",
+			"type": 4,
+			"api": "http://sspa8.top:99/php/%E4%B8%93%E4%BA%AB.php"
+		},
+        {
 			"api": "https://newtv.ggff.net/pingguo?token=dt7oO7x4",
 			"key": "嗷呜小苹果",
 			"name": "🐙小苹果｜追剧",
