@@ -70,6 +70,23 @@
 			"type": 4
 		},
         {
+            "key": "wv_3q",
+            "name": "🐙3Q影视｜追剧",
+            "api": "csp_WvSpider",
+            "jar": "https://bitbucket.org/guot55/jar2/raw/b82dcb2d195d66dcb3b83fa3f078d28271bfd412/WvSpider.jar",
+            "type": "3",
+            "ext": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/js/3Q.js",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+		{
+			"key": "T4-哇哇",
+			"name": "🐙哇哇影视｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/哇哇影视.php"
+		},
+        {
             "name": "🐙糖心｜追剧",
             "key": "TnewGr",
             "type": 3,
