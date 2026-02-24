@@ -734,6 +734,12 @@
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
+            "name": "🐙台湾欢乐看源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt"
+        },
+        {
             "name": "🐙4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
